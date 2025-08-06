@@ -1,0 +1,44 @@
+PYTHON FOR DATA ANALYSIS:
+          
+NUMPY:
+    ->numerical computation library
+    ->provides mathematical functions.
+    ->foundational values for data ANALYSIS.
+
+PANDAS:
+    ->Data manipulation.
+    ->Data structures like dataframe and series
+    ->Data cleaning , preprocessing and aggrigate
+    ->Data analysis tasks.
+
+PREPROCESSING:
+    ->Data cleaning.
+    -->Two types:
+          ->Feacture scalling.
+          ->data encoading.
+    ->Data quality for accurate analysis.
+
+DATA CLEANING TECHNIQUES:
+   ->Hanidling missing values.
+   ->Removing duplicates.
+   ->correcting inconsistant data.
+   ->ensuring data intigrity and accuracy.
+
+EDA TECHNIQUES:
+    ->Descriptive statistics:mean,median,mode.
+    ->Dta visualization:histograms,scatter plots,box plots.
+    ->correlation analysis:identifining relation
+
+
+MATPLOTLIB:
+    ->data visulization library
+    ->plots.
+    ->lables,colors,titles
+
+SEABORN:
+    ->statistical data vizulization
+    ->asthetics.
+    ->categorical plots,distribution plots ,correlation plots.
+    ->simplifies creation of visually applealing plots
+
+

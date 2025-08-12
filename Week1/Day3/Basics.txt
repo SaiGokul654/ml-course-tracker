@@ -1,0 +1,30 @@
+Machine Learning:
+                ML is a branch of AI that enables computers to learn and make predictions.it involves algo that automatically improve their performance on experiance..
+
+Types:
+     1. Supervised Learning: In this type of learning, the algorithm is trained on labeled
+     data, where the correct output is already known. The goal is to learn a mapping between th
+
+     2.Unsupervised Learning: In this type of learning, the algorithm is trained on unlabeled data, and it must find patterns or structure in the data.     
+
+     3.Semi supervised Learning: In this type of learning, the algorithm is trained on a mix of labeled and unlabeled.
+
+     4.Reinforced Learning:It involves agent that launch through environment,trail and error.
+
+
+Scilit-Learn:
+     Open source ML library.it provides a wide range of algo and tools for various ML tasks including classification,regression,clustering and dimensionality reduction.
+
+Train/test Split:Technique for evaluating model performance
+     It is a technique used to evaluate the performance of a model by splitting the data into two sets.
+     Splitting the available data into two sets.the training set and the testing set.
+
+Benifits of train/test split:
+    Allows assessing model performance on unseen data.
+    Helps to avoid overfitting.
+    Enables to compare the performance of different models.
+
+Cross Validation:technique for evaluating model performance
+      Technique used to assess the performance of a ML model more reliably than a single train/test spli.
+      it divides the data into multiple subseets of "folds" and performing multiple train/test splits.
+

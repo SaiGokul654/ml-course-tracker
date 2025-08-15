@@ -1,0 +1,13 @@
+Dot product:
+        ->In ML,it is fundamental operation that is often used in various algo and models.
+        ->It is particullarly important in tasks related to linear algebra,such as vector and matrix operations.
+        ->It is also known as inner product or scalar product.
+        ->It takes two vectors as input and returns a scalar value as output.
+        ->Denoted by (.)
+
+Dot PRoduct Applications:
+        1. Linear Regression: Dot product is used in linear regression to calculate the coefficients of the model.
+        2. Neural Networks: Dot product is used in neural networks to calculate the output of each layer.
+        3. Matrix Operations: Dot product is used in matrix operations such as matrix multiplication and matrix addition.
+        4.Support Vector Machines: Dot product is used in Support Vector Machines to calculate the distance between data points.
+        

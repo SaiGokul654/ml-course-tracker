@@ -1,0 +1,8 @@
+Supervised learning:
+                 ->The machine learns from the labled data and predits the value.
+                 ->ex:images of cat and lion,each has diff feactures and we can predit it.
+
+Unsupervised learning:
+                 ->It will create clusters.ex:we wont tell this picture doesnt belong to lion,it shows as category.
+                 ->It doesnt give direct output,it gives as category.
+

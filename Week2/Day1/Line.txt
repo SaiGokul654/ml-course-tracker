@@ -1,0 +1,34 @@
+Equation of line:
+           ->y=mx+c
+           ->where m is slope and c is y-intercept
+
+General Equation of line:
+           ->ax+by+c=0
+
+    -->On transforming it to y=mx+c wwe get
+            ->y=-a/bx-c/b
+
+    ->>Recreating the equation of line
+            ->ax+by+c=0
+    
+            ->w1x1+w2x2+w0=0
+            ->Representation in y=mx+c format will give us slope and intercept
+                  ->x2=-w1/w2(x1)-w0/w2
+                      here ,slope w.r.t x1=-w1/w2
+                      intercept w.r.t x1=-w0/w2
+                      slope w.r.t x2=-w1/w2
+                      intercept w.r.t x2=-w0/w2
+These are the two vectors.
+
+Summary:
+Eqn of line:w1x1+w2x2+w0=0,slope:1,intercept:1
+Eqn of plane:w1x1+w2x2+w3x3+w0=0,slope:2,intercept:1
+Eqn of hyperplane:w1x1+w2x2+w3x3+....+wdxd+w0=0,slope:-1,intercept:1
+
+
+NOTE:
+If a line/plane/hyperplane passes through origin then,
+-w0/w2=0, the intercept will be zero
+
+in order for -w0/w2 to be zero,notice that w2!=0 (i.e zero divission problem)
+i.e w0=0

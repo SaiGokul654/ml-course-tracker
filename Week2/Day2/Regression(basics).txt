@@ -1,0 +1,5 @@
+REGRESSION:
+        ->It is a type of supervised learning where the output variable is continuous.
+        ->the goal of regression is to predit the value of a dependent variable based on the values of one or more independent variables.
+        ->EX:Include predicting the price of a house based on its feactures or predicting the stock price of a company based on economic indicators.
+

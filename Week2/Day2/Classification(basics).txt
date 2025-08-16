@@ -1,0 +1,4 @@
+CLASSIFICATION:
+        ->It is a type of supervised learing where the output variable is categorical.
+        ->The of classification is to clasify the input data into one of several predetermined categories.
+        ->EX:Include email spam detection,image recognition,and sentimental analysis.

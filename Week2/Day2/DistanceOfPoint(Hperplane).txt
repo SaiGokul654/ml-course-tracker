@@ -1,0 +1,15 @@
+Distance Of a Point From a Hyperplane:
+
+->Hyperplane equation: wᵀx + w₀ = 0
+
+->Normal vector: w = [w₁, w₂, ..., w_d]
+
+->Point: P = [p₁, p₂, ..., p_d]
+
+->Distance formula: d = (w₁p₁ + w₂p₂ + ... + w_dp_d + w₀) / √(w₁² + w₂² + ... + w_d²)
+
+->If hyperplane passes through origin → w₀ = 0
+
+->If w is a unit vector → denominator = 1
+
+->Simplified distance: d = w₁p₁ + w₂p₂ + ... + w_dp_d + w₀ 

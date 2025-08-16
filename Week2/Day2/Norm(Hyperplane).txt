@@ -1,0 +1,13 @@
+Assume that a plane is passing through origin,
+               w0=0,
+Eqn of hyperplane which is passing through origin,
+               wt+w0=0,
+               wt=0
+
+               or
+        w(bar)x(bar)=0
+    we know a.b=a.b.costheta
+    so,
+    w.x=x.x.costheta=0
+
+observe that ,inorder for dot product to be equal to zero ,the two vectors should be ORTHOGONAL or PERPENDICULAR. 

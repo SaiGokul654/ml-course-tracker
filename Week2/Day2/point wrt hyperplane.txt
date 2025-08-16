@@ -1,0 +1,26 @@
+HOW TO FIND THE PSOITION OF A POINT WRT HYPERPLANE:
+
+A hyperplane is given by the equation: 
+𝑤𝑇𝑥=0wTx=0.
+
+To check a point’s position, compute the dot product: 
+𝑤⋅𝑃w⋅P.
+
+Dot product formula: 
+𝑤⋅𝑃=∣∣𝑤∣∣∣∣𝑃∣∣cos(𝜃)
+w⋅P=∣∣w∣∣∣∣P∣∣cos(θ).
+
+The lengths are always positive, so the sign depends only on 
+cos(𝜃)
+cos(θ).
+
+If 𝑤⋅𝑃>0
+w⋅P>0 → point is on the positive side of the hyperplane.
+
+If 
+𝑤⋅𝑃<0
+w⋅P<0 → point is on the negative side.
+
+If 
+𝑤⋅𝑃=0
+w⋅P=0 → point lies exactly on the hyperplane.

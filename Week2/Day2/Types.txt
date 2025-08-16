@@ -1,0 +1,3 @@
+Types of regression:
+1.Linear Regression:Is used to model linear relationships b/w variables ,while logistic regression is used for binary calssification problems.
+2.Polynomial regression:Is used to model nonlinear relationships b.w variables.

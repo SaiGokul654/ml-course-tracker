@@ -1,0 +1,4 @@
+Applications of supervised learning:
+         ->As more labled data becomes available ,the acuuracy of supervised learning algo continues to improve.
+         ->Supervised learning has a wide range of applications in various fields,including finance,healthcare,and marketing.
+         ->It can be used to predict stock prices,diagnose diseases,and recommend products to customers.

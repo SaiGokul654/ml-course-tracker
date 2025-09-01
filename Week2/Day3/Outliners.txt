@@ -1,0 +1,7 @@
+OUTLIERS AND INFLUENTIAL OBSERVATIONS:
+
+->Outliers are observations that are significantly different from the rest of the data, while influential observations are points that have a large effect on the model.
+
+->Outliers can be detected using various methods like box plots and scatter plots, while influential observations can be detected using leverage plots.
+
+->Outliers and influential observations can have a significant impact on the results of regression analysis and should be carefully considered and handled.

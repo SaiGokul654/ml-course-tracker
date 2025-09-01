@@ -1,0 +1,7 @@
+ASSUMPTIONS OF REGRESSION:
+
+->Regression analysis makes several assumptions, including linearity, independence, and normality.
+
+->Linearity assumes that there is a linear relationship between the dependent and independent variables.
+
+->Independence assumes that the observations in the data set are independent of each other, while normality assumes that the errors are normally distributed.

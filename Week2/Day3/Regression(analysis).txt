@@ -1,0 +1,6 @@
+Regression analysis Process:
+            ->The regression analysis process involves several steps, including data collection, data cleaning, model selection, and model validation.
+
+->During model selection, various techniques like stepwise selection, ridge regression, and LASSO regression are used to select the best model for the given data.
+
+->Model validation is done to check the accuracy and reliability of the selected model.

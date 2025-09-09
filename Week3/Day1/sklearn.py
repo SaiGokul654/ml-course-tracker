@@ -14,16 +14,18 @@ data=df['Hours']
 print(target)
 print(data)
 
+from sklearn.model_selection import train_test_split
+x_train,x_test,y_train,y_test=train_test_split(data,target,train_size=0.7,random_state=0)
+print(x_train.shape,y_train.shape)
+print(x_test.shape,y_test.shape) 
+
+
 from sklearn.linear_model import LinearRegression
 regressor= LinearRegression()
 regressor.fit(x_train,y_train)
 
 
 
-from sklearn.model_selection import train_test_split
-x_train,x_test,y_train,y_test=train_test_split(data,target,train_size=0.7,random_state=0)
-print(x_train.shape,y_train.shape)
-print(x_test.shape,y_test.shape) 
 
 print('y intercept:',regressor.intercept_)
 
